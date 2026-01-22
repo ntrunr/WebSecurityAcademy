@@ -219,7 +219,7 @@
 - [x] Web cache poisoning via a fat GET request (Practitioner)
 - [x] URL normalization (Practitioner)
 - [x] Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria (Expert)
-- [ ] Combining web cache poisoning vulnerabilities (Expert)
+- [x] Combining web cache poisoning vulnerabilities (Expert)
 - [ ] Cache key injection (Expert)
 - [ ] Internal cache poisoning (Expert)
 
