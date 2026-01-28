@@ -224,7 +224,7 @@
 - [x] Internal cache poisoning (Expert) | [YouTube Video]()
 
 ## Insecure Deserialization
-- [ ] Modifying serialized objects (Apprentice)
+- [x] Modifying serialized objects (Apprentice)
 - [ ] Modifying serialized data types (Practitioner)
 - [ ] Using application functionality to exploit insecure deserialization (Practitioner)
 - [ ] Arbitrary object injection in PHP (Practitioner)
