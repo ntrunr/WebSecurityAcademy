@@ -225,7 +225,7 @@
 
 ## Insecure Deserialization
 - [x] Modifying serialized objects (Apprentice)
-- [ ] Modifying serialized data types (Practitioner)
+- [x] Modifying serialized data types (Practitioner)
 - [ ] Using application functionality to exploit insecure deserialization (Practitioner)
 - [ ] Arbitrary object injection in PHP (Practitioner)
 - [ ] Exploiting Java deserialization with Apache Commons (Practitioner)
