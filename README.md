@@ -220,8 +220,8 @@
 - [x] URL normalization (Practitioner) | [YouTube Video](https://youtu.be/wY3akcbwM-M)
 - [x] Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria (Expert) | [YouTube Video](https://youtu.be/3oLrCFkREmc)
 - [x] Combining web cache poisoning vulnerabilities (Expert) | [YouTube Video](https://youtu.be/W_vGb4Ts-EA)
-- [x] Cache key injection (Expert) | [YouTube Video]()
-- [x] Internal cache poisoning (Expert) | [YouTube Video]()
+- [x] Cache key injection (Expert) | [YouTube Video](https://youtu.be/BdEcFAH37v8)
+- [x] Internal cache poisoning (Expert) | [YouTube Video](https://youtu.be/1_-R2ZOdDKE)
 
 ## Insecure Deserialization
 - [x] Modifying serialized objects (Apprentice)
