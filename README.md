@@ -1,13 +1,38 @@
 # WebSecurityAcademy
 
-# Checklist 
-
-
 # PortSwigger Web Security Academy – Complete Labs Checklist (2026)
-**Your current level:** Newbie  
-**Progress:** 2 / ~59 Apprentice • 0 / ~172 Practitioner • 0 / ~39 Expert  
-**Total labs:** ~270+ (exact count varies slightly with updates)  
-**Solved:** 2 (Apprentice SQLi labs)
+- [Mystery Lab Challenge](#mystery-lab-challenge)
+- [SQL Injection](#sql-injection)
+- [Cross-site Scripting (XSS)](#cross-site-scripting-xss)
+- [Cross-site Request Forgery (CSRF)](#cross-site-request-forgery-csrf)
+- [Clickjacking](#clickjacking)
+- [DOM-based Vulnerabilities](#dom-based-vulnerabilities)
+- [Cross-origin Resource Sharing (CORS)](#cross-origin-resource-sharing-cors)
+- [XML External Entity (XXE) Injection](#xml-external-entity-xxe-injection)
+- [Server-side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
+- [HTTP Request Smuggling](#http-request-smuggling)
+- [OS Command Injection](#os-command-injection)
+- [Server-side Template Injection](#server-side-template-injection)
+- [Path Traversal](#path-traversal)
+- [Access Control Vulnerabilities](#access-control-vulnerabilities)
+- [Authentication](#authentication)
+- [WebSockets](#websockets)
+- [Web Cache Poisoning](#web-cache-poisoning)
+- [Insecure Deserialization](#insecure-deserialization)
+- [Information Disclosure](#information-disclosure)
+- [Business Logic Vulnerabilities](#business-logic-vulnerabilities)
+- [HTTP Host Header Attacks](#http-host-header-attacks)
+- [OAuth Authentication](#oauth-authentication)
+- [File Upload Vulnerabilities](#file-upload-vulnerabilities)
+- [JWT Attacks](#jwt-attacks)
+- [Essential Skills](#essential-skills)
+- [Prototype Pollution](#prototype-pollution)
+- [GraphQL API Vulnerabilities](#graphql-api-vulnerabilities)
+- [Race Conditions](#race-conditions)
+- [NoSQL Injection](#nosql-injection)
+- [API Testing](#api-testing)
+- [Web LLM Attacks](#web-llm-attacks)
+- [Web Cache Deception](#web-cache-deception)
 
 ## Mystery Lab Challenge
 - [ ] Mystery lab challenge
