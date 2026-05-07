@@ -362,10 +362,14 @@
 - [ ] Exploiting server-side parameter pollution in a REST URL (Expert) | [Youtube Video]()
 
 ## Web LLM Attacks
-- [ ] Exploiting LLM APIs with excessive agency (Apprentice) | [Youtube Video]()
-- [ ] Exploiting vulnerabilities in LLM APIs (Practitioner) | [Youtube Video]()
-- [ ] Indirect prompt injection (Practitioner) | [Youtube Video]()
-- [ ] Exploiting insecure output handling in LLMs (Expert) | [Youtube Video]()
+- [x] Exploiting LLM APIs with excessive agency (Apprentice) | [Youtube Video](https://youtu.be/gBQVQCj87mM)
+- [x] Exploiting vulnerabilities in LLM APIs (Practitioner) | [Youtube Video](https://youtu.be/_AK6jDCBWZM)
+- [x] Indirect prompt injection (Practitioner) | [Youtube Video](https://youtu.be/loGS0IbCg3Q)
+- [x] Exploiting insecure output handling in LLMs (Expert) | [Youtube Video](https://youtu.be/N2R_HDLK4jo)
+- [x] Exploiting AI agents to perform destructive actions (Apprentice) | [Youtube Video](https://youtu.be/JGGtp3BYX8c)
+- [x] Exploiting AI agents to exfiltrate sensitive information (Apprentice) | [Youtube Video](https://youtu.be/bmZH_tY0BsU)
+- [x] Exploiting AI agents to trigger secondary vulnerabilities (Practitioner) | [Youtube Video](https://youtu.be/fTshZmYmWWg)
+- [x] Bypassing AI scanner defenses to exfiltrate sensitive information (Practitioner) | [Youtube Video](https://youtu.be/LuMtvUwuruU)
 
 ## Web Cache Deception
 - [ ] Exploiting path mapping for web cache deception (Apprentice) | [Youtube Video]()
